@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wacode.yuki.nonoitibuss3.ui.selectDetect.container.SelectDetectContainer xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/container"
+    tools:context="wacode.yuki.nonoitibuss3.ui.selectDetect.SelectDetectActivity">
+    <wacode.yuki.nonoitibuss3.ui.selectDetect.selectImageList.ImageListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listView"></wacode.yuki.nonoitibuss3.ui.selectDetect.selectImageList.ImageListView>
+    <include
+        layout="@layout/layout_detect_detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/detailLayout"
+        android:visibility="gone"></include>
+</wacode.yuki.nonoitibuss3.ui.selectDetect.container.SelectDetectContainer>
+

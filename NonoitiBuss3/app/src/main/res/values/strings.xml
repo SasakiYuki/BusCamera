@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NonoitiBuss3</string>
+    <string name="main_text_button1">Camera Mode</string>
+    <string name="main_text_button2">Detect All Images</string>
+    <string name="main_text_button3">Select Detect Image</string>
+    <string name="main_text_warning">Warning!!Need a long time to get data</string>
+    <string name="camera_button1">TAKE PICTURE</string>
+    <string name="subscription_key">be92fbe8d0934e4fa227b1fd39ffce90</string>
+    <string name="disp_info_text">Image:</string>
+    <string name="disp_info_text2">Result:</string>
+    <string name="detect_list_text">Age:</string>
+    <string name="detect_list_text2">Gender:</string>
+    <string name="detect_list_text3">Smile:</string>
+</resources>
